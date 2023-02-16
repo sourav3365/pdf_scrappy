@@ -1,0 +1,7 @@
+selenium==4.8.0
+selenium-wire==5.1.0
+pandas @ file:///C:/ci/pandas_1635506685681/work
+pandas-profiling==3.1.0
+pandasql==0.7.3
+PyPDF2==3.0.1
+tabula-py==2.6.0
