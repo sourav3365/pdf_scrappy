@@ -15,3 +15,4 @@ How to execute program.
 1. Download the zip file
 2. Install required libraries
 3. Execute the runner.py program
+4. If there is an issues encountered with Chromdriver. Visit here -> https://chromedriver.chromium.org/downloads, download the required driver, keep it in the same    directory and then execute the runner.py script
