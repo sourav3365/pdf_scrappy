@@ -9,3 +9,9 @@
    The dataframes are extracted based on the TABLE_NAME provided
 4. The Dataframes are concated and some transformation is performed
 5. The Dataframe is saved as an excel file in the Current directory
+
+
+How to execute program.
+1. Download the zip file
+2. Install required libraries
+3. Execute the runner.py program
